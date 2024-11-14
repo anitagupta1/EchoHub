@@ -1,4 +1,4 @@
-# Multi-Client Chat Application
+# EchoHub(Multi-Client Chat Application)
 
 This is a multi-client chat application developed in C++ using socket programming. 
 
